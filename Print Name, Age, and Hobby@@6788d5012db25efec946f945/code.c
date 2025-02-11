@@ -5,7 +5,10 @@ int main(){
     int a;
     char str1[200];
     scanf("%s %d %s",&str &a &str1);
-    printf("Name: %s \n Age: %d \n Hobby: %s",str a str1);
+    printf("Name: %s \n" ,str);
+    printf("Age: %d \n" ,a);
+    printf("Hobby: %s",str1);
+
     return 0;
     
 }
