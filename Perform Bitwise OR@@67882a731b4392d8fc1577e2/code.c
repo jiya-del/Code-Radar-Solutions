@@ -3,6 +3,6 @@
 int main(){
     int a,b;
     scanf("%d %d",&a,&b);
-    printf("%d",5|3);
+    printf(5|3);
     return 0;
 }
